@@ -19,13 +19,36 @@ Software developer with 3 years of experience building products for diverse busi
 # WORK EXPERIENCE
 
 ## Grid Dynamics
-**Middle UI Software Engineer** | SEP/2023 – PRESENT
-
+### Responsibilities
 + Developing user interfaces: Translating designs and wireframes into clean, efficient, and interactive user interfaces using React and TS.
 + Collaborating with cross-functional teams: Working closely with designers, product managers, and backend developers to deliver high-quality software solutions that meet project requirements and deadlines.
 + Actively participated in and facilitated agile development processes: Engaging in backlog refinement, sprint planning, and demos to contribute to efficient and iterative software development.
 + Maintaining and troubleshooting: Proactively monitoring application performance, identifying and resolving issues, and providing support.
 + Performed code reviews: Providing constructive feedback to enhance software quality, maintainability, and knowledge sharing within the team.
+
+
+**Middle Full-Stack Software Engineer** | June/2025 - Present
+- Started my jorney in BackEnd develpment with GoLang 
+- Learned new patterns and technologies like: Docker, Postgresql, Kubernetes, Event Brokers(RabbitMQ)
+- Familarized myself with Microservice Architecture
+
+
+**Middle UI Software Engineer** | March/2024 - June/2025
+- Started new project for Leading international automotive aftermarket retail developer
+- Familarized Myself with complex micro-frontend architecture
+- Working with new technologies and libraries like Zustand, Graph Ql
+
+
+**Junior UI Software Engineer** | SEP/2023 – Jan/2025
+
+- Working with React/TS stack and Built UI for major US luxury retailer 
+- Taking part in the Demo and being proactive in a big international team
+- Successfully obtained GPC certification 
+- Developed great skills of debugging and dealing with complicated issues 
+- Learned how make front-end application architecture from bare start
+- Working with new technologies and libraries like MUI, Redux, React-hook-form, Vite, Vittest
+
+
 
 ## Course Si
 **Programming and robotics teacher** | Jan/2023 – Aug/2023
