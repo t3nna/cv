@@ -8,7 +8,7 @@ classoption: "16pt"
 ---
 
 # IVAN MELNYK
-## Full-Stack Software Engineer
+## Frontend Engineer | UI/UX
 
 **Wroclaw, Poland** | **Email:** [t3nna1001@gmail.com](mailto:t3nna1001@gmail.com) | **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/t3nna/) | **GitHub:** [Ivan Melnyk](https://github.com/t3nna)
 
@@ -22,7 +22,7 @@ Software Engineer with 3+ years of experience building scalable products for sta
 
 **Grid Dynamics | Middle Full-Stack Software Engineer** | June/2025 - Present
 
-+ Transitioned into backend development using Go, implementing Microservices architecture.
++ Transitioned into Full-Stack development using Go and React, implementing Microservices architecture.
  
 + Designed and integrated high-performance communication layers using gRPC, WebSockets, and RabbitMQ.
 
@@ -69,13 +69,14 @@ Software Engineer with 3+ years of experience building scalable products for sta
 
 + **Languages:** TypeScript, JavaScript (ES6+), Go, Node.js, SQL.
 
++ **Design & UX:** Figma, Jira, UI Patterns, Accessibility.
+
 + **Frontend:** React, Redux, Zustand, Next.js, HTML5, CSS3, SCSS.
 
 + **Backend & DB:** Go (Gin/Echo), Express, GraphQL, REST, PostgreSQL, MongoDB, RabbitMQ.
 
 + **Tools & DevOps:** Git, Docker, Kubernetes, GCP, Vite, Vitest, Jest.
 
-+ **Design & Management:** Figma, Jira, BitBucket, GitLab.
 
 # LANGUAGES
 
