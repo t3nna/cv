@@ -4,50 +4,52 @@ linkcolor: blue
 pdf-engine: xelatex
 header-includes:
  - \usepackage[margin=.5in]{geometry}
-classoption: "12pt"
+classoption: "16pt"
 ---
 
 # IVAN MELNYK
-## FRONTEND DEVELOPER
+## Full-Stack Software Engineer
 
-**Wroclaw, Poland** | **Email:** [t3nna1001@gmail.com](mailto:t3nna1001@gmail.com) | **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/t3nna/)
+**Wroclaw, Poland** | **Email:** [t3nna1001@gmail.com](mailto:t3nna1001@gmail.com) | **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/t3nna/) | **GitHub:** [Ivan Melnyk](https://github.com/t3nna)
 
-# PROFILE INFO
+# PROFESSIONAL SUMMARY
 
-Software developer with 3 years of experience building products for diverse businesses, ranging from startups to large enterprises. Proven ability to deliver high-quality solutions using a variety of technologies, specializing in TypeScript and React. Passionate about creating robust and scalable applications with a focus on maintainable and scalable solutions. Eager to contribute to challenging projects and continue expanding technical expertise in web development.
+Software Engineer with 3+ years of experience building scalable products for startups and global enterprises. Specialized in TypeScript, React, and Go, with a strong track record of delivering high-quality UI for major US luxury retailers and automotive leaders. Expert in Micro-frontend and Microservices architectures, passionate about writing maintainable code and leveraging Cloud (GCP) and DevOps (Docker, K8s) to optimize delivery.
 
 # WORK EXPERIENCE
 
 ## Grid Dynamics
-### Responsibilities
-+ Developing user interfaces: Translating designs and wireframes into clean, efficient, and interactive user interfaces using React and TS.
-+ Collaborating with cross-functional teams: Working closely with designers, product managers, and backend developers to deliver high-quality software solutions that meet project requirements and deadlines.
-+ Actively participated in and facilitated agile development processes: Engaging in backlog refinement, sprint planning, and demos to contribute to efficient and iterative software development.
-+ Maintaining and troubleshooting: Proactively monitoring application performance, identifying and resolving issues, and providing support.
-+ Performed code reviews: Providing constructive feedback to enhance software quality, maintainability, and knowledge sharing within the team.
+
+**Grid Dynamics | Middle Full-Stack Software Engineer** | June/2025 - Present
+
++ Transitioned into backend development using Go, implementing Microservices architecture.
+ 
++ Designed and integrated high-performance communication layers using gRPC, WebSockets, and RabbitMQ.
+
++ Containerized and orchestrated services using Docker and Kubernetes, streamlining deployment pipelines.
+
++ Implemented secure authentication and authorization flows using JWT and managed relational data with PostgreSQL.
+
+**Grid Dynamics | Middle UI Software Engineer** | March/2024 - June/2025
+
++ Engineered complex Micro-frontend architecture for a leading international automotive aftermarket developer.
+
++ Optimized application state management by implementing Zustand and integrated GraphQL for efficient data fetching.
+
++ Facilitated Agile processes, leading sprint demos and participating in backlog refinement for a cross-functional international team.
 
 
-**Middle Full-Stack Software Engineer** | June/2025 - Present
-- Started my jorney in BackEnd develpment with GoLang 
-- Learned new patterns and technologies like: Docker, Postgresql, Kubernetes, Event Brokers(RabbitMQ)
-- Familarized myself with Microservice Architecture
+**Grid Dynamics | Junior UI Software Engineer** | Sept/2023 – Jan/2025
 
++ Developed the frontend for a major US luxury retailer using React and TypeScript, focusing on high-fidelity UI and performance.
 
-**Middle UI Software Engineer** | March/2024 - June/2025
-- Started new project for Leading international automotive aftermarket retail developer
-- Familarized Myself with complex micro-frontend architecture
-- Working with new technologies and libraries like Zustand, Graph Ql
++ Architected frontend structures from scratch using Vite, improving build speeds and developer experience.
 
++ Enhanced code reliability by implementing comprehensive unit testing with Vitest and Jest.
 
-**Junior UI Software Engineer** | SEP/2023 – Jan/2025
++ Built responsive, accessible interfaces using MUI, Redux, and React-hook-form.
 
-- Working with React/TS stack and Built UI for major US luxury retailer 
-- Taking part in the Demo and being proactive in a big international team
-- Successfully obtained GPC certification 
-- Developed great skills of debugging and dealing with complicated issues 
-- Learned how make front-end application architecture from bare start
-- Working with new technologies and libraries like MUI, Redux, React-hook-form, Vite, Vittest
-
++ Earned Google Cloud (GCP) Certification to align frontend delivery with cloud-native infrastructure.
 
 
 ## Course Si
@@ -59,35 +61,21 @@ Software developer with 3 years of experience building products for diverse busi
 
 # EDUCATION & CERTIFICATES
 
-+ **WROCLAW UNIVERSITY OF SCIENCE AND TECHNOLOGY** - Electronic and Computer Engineering | 2022-2025
++ **WROCLAW UNIVERSITY OF SCIENCE AND TECHNOLOGY** - Electronic and Computer Engineering | 2022-2026
 + **GOOGLE CLOUD CERTIFIED - CLOUD DIGITAL LEADER** | 2024
 + **CCNA: INTRODUCTION TO NETWORKS**
 
-# SKILLS
+# TECHNICAL SKILLS
 
-## Programming languages & Technologies
-JavaScript, TypeScript, CSS, Node.js, GraphQL, Rest
++ **Languages:** TypeScript, JavaScript (ES6+), Go, Node.js, SQL.
 
-## Libraries
-React, Redux, Zustand, Express, SCSS, MUI
++ **Frontend:** React, Redux, Zustand, Next.js, HTML5, CSS3, SCSS.
 
-## Version control system
-Git, GitLab, BitBucket, GitHub
++ **Backend & DB:** Go (Gin/Echo), Express, GraphQL, REST, PostgreSQL, MongoDB, RabbitMQ.
 
-## Databases
-MongoDB, Postgresql 
++ **Tools & DevOps:** Git, Docker, Kubernetes, GCP, Vite, Vitest, Jest.
 
-## Issue Tracking
-Jira
-
-## Testing
-Jest, Vitest
-
-## Cloud
-GCP
-
-## Design
-Figma, Photoshop
++ **Design & Management:** Figma, Jira, BitBucket, GitLab.
 
 # LANGUAGES
 
